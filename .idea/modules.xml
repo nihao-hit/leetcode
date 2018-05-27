@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Python/PycharmProjects/.idea/PycharmProjects.iml" filepath="$USER_HOME$/Python/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://S:/flasky/.idea/flasky.iml" filepath="S:/flasky/.idea/flasky.iml" />
+      <module fileurl="file://S:/jianzhioffer/.idea/jianzhioffer.iml" filepath="S:/jianzhioffer/.idea/jianzhioffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
     </modules>
   </component>
